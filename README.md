@@ -28,3 +28,9 @@
 
 <div style="margin-top:30px"></div>
 
+
+## 📱  __Contact__
+- __Phone number - +2348134570701__
+* __Twitter - [ken_okha](https://twitter.com/Ken_okha "ken_okha")__
+* __BlockChain developer__
+
